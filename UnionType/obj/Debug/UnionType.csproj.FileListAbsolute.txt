@@ -1,0 +1,5 @@
+c:\users\kpena\documents\visual studio 2013\Projects\UnionType\UnionType\obj\Debug\UnionType.csprojResolveAssemblyReference.cache
+c:\users\kpena\documents\visual studio 2013\Projects\UnionType\UnionType\bin\Debug\UnionType.dll
+c:\users\kpena\documents\visual studio 2013\Projects\UnionType\UnionType\bin\Debug\UnionType.pdb
+c:\users\kpena\documents\visual studio 2013\Projects\UnionType\UnionType\obj\Debug\UnionType.dll
+c:\users\kpena\documents\visual studio 2013\Projects\UnionType\UnionType\obj\Debug\UnionType.pdb
