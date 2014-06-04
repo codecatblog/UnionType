@@ -41,7 +41,6 @@
   <ItemGroup>
     <Compile Include="Either.cs" />
     <Compile Include="Examples.cs" />
-    <Compile Include="Maybe.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
